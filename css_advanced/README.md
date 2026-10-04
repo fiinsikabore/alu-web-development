@@ -3,7 +3,6 @@
 This project is the styling of the **SmileSchool** landing page, built from a Figma designer file.
 The HTML structure comes from the `html_advanced` project; here I focused on the CSS.
 
-![SmileSchool page](images/capture.png)
 
 ## What I practiced
 
